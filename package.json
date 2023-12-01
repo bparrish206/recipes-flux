@@ -16,7 +16,7 @@
     "node-jsx": "0.12.0",
     "node-sass": "2.0.0-beta",
     "ps-tree": "0.0.3",
-    "react-router": "0.11.6",
+    "react-router": "0.13.6",
     "vulgarities": "0.0.2",
     "webpack": "1.4.11",
     "superagent": "0.21.0",
