@@ -23,7 +23,7 @@
     "uuid": "2.0.1"
   },
   "devDependencies": {
-    "gulp": "3.8.7",
+    "gulp": "3.9.1",
     "gulp-connect": "2.0.6",
     "gulp-eslint": "0.2.2",
     "gulp-jsxcs": "0.1.6",
