@@ -4,7 +4,7 @@
   "description": "Recipes (Flux example)",
   "dependencies": {
     "body-parser": "1.2.0",
-    "compression": "1.2.0",
+    "compression": "1.7.4",
     "express": "4.2.0",
     "express-handlebars": "1.1.0",
     "imports-loader": "0.6.3",
